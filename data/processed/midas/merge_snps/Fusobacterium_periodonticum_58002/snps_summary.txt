@@ -1,0 +1,2 @@
+sample_id	genome_length	covered_bases	fraction_covered	mean_coverage	aligned_reads	mapped_reads
+SPIT_TGnew_Virome_1	2532453	1976679	0.78053926371	7.1801046098	122308	96305

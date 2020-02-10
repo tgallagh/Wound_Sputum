@@ -1,0 +1,2 @@
+sample_id	genome_length	covered_bases	fraction_covered	mean_coverage	aligned_reads	mapped_reads
+JMother	3090349	2332092	0.754637097622	6.84674275286	157091	110238

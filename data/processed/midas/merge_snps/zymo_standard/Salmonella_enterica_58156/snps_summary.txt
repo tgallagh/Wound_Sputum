@@ -1,0 +1,2 @@
+sample_id	genome_length	covered_bases	fraction_covered	mean_coverage	aligned_reads	mapped_reads
+ZYMO_Standard	4685779	4144279	0.88443757164	9.38882058858	296363	266805

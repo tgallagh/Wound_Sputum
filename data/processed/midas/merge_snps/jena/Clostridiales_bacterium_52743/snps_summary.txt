@@ -1,0 +1,2 @@
+sample_id	genome_length	covered_bases	fraction_covered	mean_coverage	aligned_reads	mapped_reads
+JKid	3952410	3226190	0.816258940748	43.2221378778	1028195	952843

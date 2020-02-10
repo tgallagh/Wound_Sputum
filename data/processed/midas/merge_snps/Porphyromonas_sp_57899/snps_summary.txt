@@ -1,0 +1,2 @@
+sample_id	genome_length	covered_bases	fraction_covered	mean_coverage	aligned_reads	mapped_reads
+SPIT_JP_VIROME_3	2203412	1789627	0.812207158716	5.1131001041	88614	62732

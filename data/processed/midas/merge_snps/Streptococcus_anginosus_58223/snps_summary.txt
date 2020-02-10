@@ -1,0 +1,3 @@
+sample_id	genome_length	covered_bases	fraction_covered	mean_coverage	aligned_reads	mapped_reads
+ASM_48	1911706	1756101	0.918604115905	70.8102831215	951562	846885
+ASM_49	1911706	1760659	0.920988373735	80.4934498957	1090578	969197

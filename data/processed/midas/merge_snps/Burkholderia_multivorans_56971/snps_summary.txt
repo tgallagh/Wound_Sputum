@@ -1,0 +1,2 @@
+sample_id	genome_length	covered_bases	fraction_covered	mean_coverage	aligned_reads	mapped_reads
+SP8704_full	7008810	5271100	0.752067754726	10.7847804064	465363	391487
