@@ -1,0 +1,91 @@
+##gff-version 3
+k141_45	rast2_export	CDS	1	1812	.	-	1	ID=fig|470.11377.peg.1;Name=ATP-dependent RNA helicase NGO0650
+k141_45	rast2_export	CDS	2056	2169	.	+	1	ID=fig|470.11377.peg.2;Name=hypothetical protein
+k141_45	rast2_export	CDS	2222	3103	.	-	2	ID=fig|470.11377.peg.3;Name=Inositol-1-monophosphatase (EC 3.1.3.25);Ontology_term=KEGG_ENZYME:3.1.3.25
+k141_45	rast2_export	CDS	3175	3360	.	-	1	ID=fig|470.11377.peg.4;Name=1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7);Ontology_term=KEGG_ENZYME:2.2.1.7
+k141_46	rast2_export	CDS	1	1017	.	-	1	ID=fig|470.11377.peg.5;Name=Uncharacterized MFS-type transporter
+k141_46	rast2_export	CDS	1190	2134	.	-	2	ID=fig|470.11377.peg.6;Name=Dihydrodipicolinate synthase family
+k141_46	rast2_export	CDS	2322	2399	.	+	0	ID=fig|470.11377.peg.7;Name=Transcriptional regulator%2C LysR family
+k141_98	rast2_export	CDS	2	1564	.	+	2	ID=fig|470.11377.peg.8;Name=hypothetical protein
+k141_98	rast2_export	CDS	1905	2750	.	+	0	ID=fig|470.11377.peg.9;Name=Aminoglycoside 3''-phosphotransferase (EC 2.7.1.87) > APH(3'')-I;Ontology_term=KEGG_ENZYME:2.7.1.87
+k141_98	rast2_export	CDS	2750	3586	.	+	2	ID=fig|470.11377.peg.10;Name=Aminoglycoside 6-phosphotransferase (EC 2.7.1.72) > APH(6)-Ic/APH(6)-Id;Ontology_term=KEGG_ENZYME:2.7.1.72
+k141_98	rast2_export	CDS	3706	3930	.	+	1	ID=fig|470.11377.peg.11;Name=hypothetical protein
+k141_98	rast2_export	CDS	4141	5634	.	+	1	ID=fig|470.11377.peg.12;Name=Mobile element protein
+k141_98	rast2_export	CDS	5728	6276	.	+	1	ID=fig|470.11377.peg.13;Name=Transcriptional regulator%2C ArsR family
+k141_98	rast2_export	CDS	6254	6877	.	-	2	ID=fig|470.11377.peg.14;Name=Tetracycline resistance regulatory protein TetR
+k141_98	rast2_export	CDS	6959	7807	.	+	2	ID=fig|470.11377.peg.15;Name=Tetracycline resistance%2C MFS efflux pump > Tet(B)
+k141_227	rast2_export	CDS	1	777	.	-	1	ID=fig|470.11377.peg.16;Name=2-methylcitrate synthase (EC 2.3.3.5);Ontology_term=KEGG_ENZYME:2.3.3.5
+k141_227	rast2_export	CDS	1047	1931	.	-	0	ID=fig|470.11377.peg.17;Name=Methylisocitrate lyase (EC 4.1.3.30);Ontology_term=KEGG_ENZYME:4.1.3.30
+k141_227	rast2_export	CDS	1924	2634	.	-	1	ID=fig|470.11377.peg.18;Name=Propionate catabolism operon transcriptional regulator of GntR family
+k141_227	rast2_export	CDS	2680	2814	.	+	1	ID=fig|470.11377.peg.19;Name=hypothetical protein
+k141_227	rast2_export	CDS	3150	3758	.	+	0	ID=fig|470.11377.peg.20;Name=Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57);Ontology_term=KEGG_ENZYME:2.6.1.57
+k141_312	rast2_export	CDS	1	366	.	+	1	ID=fig|470.11377.peg.21;Name=Multidrug efflux system EmrAB-OMF%2C membrane fusion component EmrA
+k141_312	rast2_export	CDS	373	1896	.	+	1	ID=fig|470.11377.peg.22;Name=Multidrug efflux system EmrAB-OMF%2C inner-membrane proton/drug antiporter EmrB (MFS type)
+k141_312	rast2_export	CDS	1939	2085	.	-	1	ID=fig|470.11377.peg.23;Name=hypothetical protein
+k141_312	rast2_export	CDS	2199	3740	.	+	0	ID=fig|470.11377.peg.24;Name=Gamma-glutamyltranspeptidase (EC 2.3.2.2) @ Glutathione hydrolase (EC 3.4.19.13);Ontology_term=KEGG_ENZYME:2.3.2.2,KEGG_ENZYME:3.4.19.13
+k141_419	rast2_export	CDS	1	72	.	-	1	ID=fig|470.11377.peg.25;Name=4-hydroxybenzoate transporter
+k141_419	rast2_export	CDS	115	900	.	-	1	ID=fig|470.11377.peg.26;Name=Beta-ketoadipate enol-lactone hydrolase (EC 3.1.1.24);Ontology_term=KEGG_ENZYME:3.1.1.24
+k141_419	rast2_export	CDS	897	2252	.	-	0	ID=fig|470.11377.peg.27;Name=3-carboxy-cis%2Ccis-muconate cycloisomerase (EC 5.5.1.2);Ontology_term=KEGG_ENZYME:5.5.1.2
+k141_419	rast2_export	CDS	2255	3466	.	-	2	ID=fig|470.11377.peg.28;Name=Acetyl-CoA acetyltransferase (EC 2.3.1.9) @ 3-oxoadipyl-CoA thiolase (EC 2.3.1.174);Ontology_term=KEGG_ENZYME:2.3.1.9,KEGG_ENZYME:2.3.1.174
+k141_419	rast2_export	CDS	3479	4132	.	-	2	ID=fig|470.11377.peg.29;Name=3-oxoadipate CoA-transferase subunit B (EC 2.8.3.6);Ontology_term=KEGG_ENZYME:2.8.3.6
+k141_419	rast2_export	CDS	4151	4822	.	-	2	ID=fig|470.11377.peg.30;Name=3-oxoadipate CoA-transferase subunit A (EC 2.8.3.6);Ontology_term=KEGG_ENZYME:2.8.3.6
+k141_419	rast2_export	CDS	5171	5263	.	-	2	ID=fig|470.11377.peg.31;Name=2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60);Ontology_term=KEGG_ENZYME:2.7.7.60
+k141_621	rast2_export	CDS	1	2439	.	+	1	ID=fig|470.11377.peg.32;Name=Ribonuclease E (EC 3.1.26.12);Ontology_term=KEGG_ENZYME:3.1.26.12
+k141_621	rast2_export	CDS	2632	2787	.	+	1	ID=fig|470.11377.peg.33;Name=Citronellyl-CoA synthetase
+k141_739	rast2_export	CDS	2	223	.	-	2	ID=fig|470.11377.peg.34;Name=Acyl-CoA dehydrogenase/oxidase domain protein
+k141_739	rast2_export	CDS	242	1351	.	-	2	ID=fig|470.11377.peg.35;Name=Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related amidases
+k141_739	rast2_export	CDS	1426	1968	.	+	1	ID=fig|470.11377.peg.36;Name=Transcriptional regulator%2C MarR family
+k141_782	rast2_export	rRNA	1	94	.	+	.	ID=fig|470.11377.rna.1;Name=5S rRNA
+k141_782	rast2_export	CDS	233	832	.	+	2	ID=fig|470.11377.peg.37;Name=Glutathione S-transferase%2C unnamed subgroup (EC 2.5.1.18);Ontology_term=KEGG_ENZYME:2.5.1.18
+k141_782	rast2_export	CDS	890	1645	.	-	2	ID=fig|470.11377.peg.38;Name=hypothetical protein
+k141_782	rast2_export	CDS	2060	2203	.	-	2	ID=fig|470.11377.peg.39;Name=hypothetical protein
+k141_782	rast2_export	CDS	2214	2294	.	+	0	ID=fig|470.11377.peg.40;Name=Sodium-dependent transporter
+k141_905	rast2_export	CDS	259	384	.	-	1	ID=fig|470.11377.peg.41;Name=hypothetical protein
+k141_905	rast2_export	CDS	528	1229	.	+	0	ID=fig|470.11377.peg.42;Name=Short-chain dehydrogenase/reductase SDR
+k141_905	rast2_export	CDS	1326	2555	.	-	0	ID=fig|470.11377.peg.43;Name=3-oxoacyl-[acyl-carrier-protein] synthase%2C KASI (EC 2.3.1.41);Ontology_term=KEGG_ENZYME:2.3.1.41
+k141_993	rast2_export	CDS	3	1304	.	-	0	ID=fig|470.11377.peg.44;Name=Succinate-semialdehyde dehydrogenase [NAD(P)+] (EC 1.2.1.16);Ontology_term=KEGG_ENZYME:1.2.1.16
+k141_993	rast2_export	CDS	1301	2593	.	-	2	ID=fig|470.11377.peg.45;Name=Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase (EC 2.6.1.19);Ontology_term=KEGG_ENZYME:2.6.1.19
+k141_993	rast2_export	CDS	2705	3112	.	+	2	ID=fig|470.11377.peg.46;Name=Transcriptional regulator GabR of GABA utilization (GntR family with aminotransferase-like domain)
+k141_1311	rast2_export	CDS	3	428	.	-	0	ID=fig|470.11377.peg.47;Name=NUDIX hydrolase
+k141_1311	rast2_export	CDS	694	1269	.	-	1	ID=fig|470.11377.peg.48;Name=hypothetical protein
+k141_1311	rast2_export	CDS	1393	1527	.	-	1	ID=fig|470.11377.peg.49;Name=hypothetical protein
+k141_1311	rast2_export	CDS	1858	2124	.	-	1	ID=fig|470.11377.peg.50;Name=hypothetical protein
+k141_1311	rast2_export	CDS	2143	2268	.	+	1	ID=fig|470.11377.peg.51;Name=hypothetical protein
+k141_1311	rast2_export	CDS	2284	4890	.	-	1	ID=fig|470.11377.peg.52;Name=2-methylcitrate dehydratase (2-methyl-trans-aconitate forming) (EC 4.2.1.117);Ontology_term=KEGG_ENZYME:4.2.1.117
+k141_1311	rast2_export	CDS	4890	5282	.	-	0	ID=fig|470.11377.peg.53;Name=2-methylcitrate synthase (EC 2.3.3.5);Ontology_term=KEGG_ENZYME:2.3.3.5
+k141_1482	rast2_export	CDS	55	708	.	+	1	ID=fig|470.11377.peg.54;Name=DNA replication protein
+k141_1482	rast2_export	CDS	775	1116	.	+	1	ID=fig|470.11377.peg.55;Name=putative protein
+k141_1482	rast2_export	CDS	1166	1450	.	+	2	ID=fig|470.11377.peg.56;Name=hypothetical protein
+k141_1482	rast2_export	CDS	1453	1809	.	+	1	ID=fig|470.11377.peg.57;Name=Mobile element protein
+k141_1482	rast2_export	CDS	1902	3461	.	+	0	ID=fig|470.11377.peg.58;Name=Mobile element protein
+k141_1482	rast2_export	CDS	3483	3746	.	+	0	ID=fig|470.11377.peg.59;Name=hypothetical protein
+k141_1482	rast2_export	CDS	4105	4989	.	-	1	ID=fig|470.11377.peg.60;Name=Macrolide 2'-phosphotransferase > Mph(E)/Mph(G) family
+k141_1689	rast2_export	rRNA	48	167	.	-	.	ID=fig|470.11377.rna.2;Name=5S rRNA
+k141_1689	rast2_export	rRNA	348	3242	.	-	.	ID=fig|470.11377.rna.3;Name=LSU rRNA
+k141_1689	rast2_export	tRNA	3583	3658	.	-	.	ID=fig|470.11377.rna.4;Name=tRNA-Ala-TGC
+k141_1689	rast2_export	tRNA	3714	3790	.	-	.	ID=fig|470.11377.rna.5;Name=tRNA-Ile-GAT
+k141_1689	rast2_export	rRNA	3848	5389	.	-	.	ID=fig|470.11377.rna.6;Name=SSU rRNA
+k141_1689	rast2_export	CDS	5493	5618	.	+	0	ID=fig|470.11377.peg.61;Name=hypothetical protein
+k141_1738	rast2_export	CDS	2	319	.	-	2	ID=fig|470.11377.peg.62;Name=3-oxoadipyl-CoA thiolase (EC 2.3.1.174) @ 3-oxo-5%2C6-dehydrosuberyl-CoA thiolase (EC 2.3.1.223);Ontology_term=KEGG_ENZYME:2.3.1.174,KEGG_ENZYME:2.3.1.223
+k141_1738	rast2_export	CDS	332	1870	.	-	2	ID=fig|470.11377.peg.63;Name=3-hydroxyadipyl-CoA dehydrogenase
+k141_1738	rast2_export	CDS	1873	2664	.	-	1	ID=fig|470.11377.peg.64;Name=1%2C2-epoxyphenylacetyl-CoA isomerase (EC 5.3.3.18);Ontology_term=KEGG_ENZYME:5.3.3.18
+k141_1738	rast2_export	CDS	2664	3437	.	-	0	ID=fig|470.11377.peg.65;Name=2%2C3-dehydroadipyl-CoA hydratase (EC 4.2.1.17);Ontology_term=KEGG_ENZYME:4.2.1.17
+k141_1738	rast2_export	CDS	3446	3919	.	-	2	ID=fig|470.11377.peg.66;Name=1%2C2-phenylacetyl-CoA epoxidase%2C subunit E (EC 1.14.13.149);Ontology_term=KEGG_ENZYME:1.14.13.149
+k141_1751	rast2_export	CDS	1	405	.	+	1	ID=fig|470.11377.peg.67;Name=putative lipoprotein
+k141_1751	rast2_export	CDS	449	607	.	-	2	ID=fig|470.11377.peg.68;Name=hypothetical protein
+k141_1751	rast2_export	CDS	626	1111	.	+	2	ID=fig|470.11377.peg.69;Name=Mobile element protein
+k141_1751	rast2_export	CDS	1437	2210	.	+	0	ID=fig|470.11377.peg.70;Name=hypothetical protein
+k141_1803	rast2_export	CDS	32	370	.	-	2	ID=fig|470.11377.peg.71;Name=hypothetical protein
+k141_1803	rast2_export	CDS	594	1544	.	+	0	ID=fig|470.11377.peg.72;Name=Replication protein
+k141_1803	rast2_export	CDS	1537	2112	.	+	1	ID=fig|470.11377.peg.73;Name=hypothetical protein
+k141_1803	rast2_export	CDS	2132	2275	.	+	2	ID=fig|470.11377.peg.74;Name=hypothetical protein
+k141_1803	rast2_export	CDS	2464	3030	.	-	1	ID=fig|470.11377.peg.75;Name=hypothetical protein
+k141_1803	rast2_export	CDS	3179	3325	.	-	2	ID=fig|470.11377.peg.76;Name=hypothetical protein
+k141_1803	rast2_export	CDS	3355	3642	.	+	1	ID=fig|470.11377.peg.77;Name=hypothetical protein
+k141_1803	rast2_export	CDS	3629	3943	.	+	2	ID=fig|470.11377.peg.78;Name=hypothetical protein
+k141_1803	rast2_export	CDS	4071	6482	.	+	0	ID=fig|470.11377.peg.79;Name=Outer membrane receptor proteins%2C mostly Fe transport
+k141_1803	rast2_export	CDS	6787	7248	.	+	1	ID=fig|470.11377.peg.80;Name=hypothetical protein
+k141_1803	rast2_export	CDS	7571	7744	.	-	2	ID=fig|470.11377.peg.81;Name=hypothetical protein
+k141_1803	rast2_export	CDS	7744	8115	.	-	1	ID=fig|470.11377.peg.82;Name=hypothetical protein
+k141_1803	rast2_export	CDS	8387	8641	.	-	2	ID=fig|470.11377.peg.83;Name=hypothetical protein
+k141_1803	rast2_export	CDS	8763	8870	.	-	0	ID=fig|470.11377.peg.84;Name=hypothetical protein
