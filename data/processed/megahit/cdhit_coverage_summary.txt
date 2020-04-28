@@ -1,0 +1,372 @@
+ASM_1 , #= 57 , Average= 56.5511
+ASM_10 , #= 50 , Average= 106.294
+ASM_11 , #= 78 , Average= 109.407
+ASM_12 , #= 149 , Average= 73.0462
+ASM_13 , #= 326 , Average= 16.6004
+ASM_14 , #= 44 , Average= 108.451
+ASM_15 , #= 27 , Average= 125.001
+ASM_16 , #= 683 , Average= 9.38597
+ASM_17 , #= 122 , Average= 59.3135
+ASM_18 , #= 112 , Average= 38.1308
+ASM_19 , #= 128 , Average= 38.6307
+ASM_2 , #= 73 , Average= 43.537
+ASM_20 , #= 24 , Average= 102.891
+ASM_21 , #= 11 , Average= 7.31799
+ASM_22 , #= 61 , Average= 68.0444
+ASM_23 , #= 62 , Average= 58.9945
+ASM_24 , #= 77 , Average= 54.7787
+ASM_25 ,
+ASM_26 , #= 1 , Average= 9.35851
+ASM_27 , #= 314 , Average= 7.901
+ASM_28 ,
+ASM_29 , #= 87 , Average= 88.4222
+ASM_3 , #= 233 , Average= 24.0722
+ASM_30 , #= 55 , Average= 65.305
+ASM_31 , #= 2 , Average= 7.3771
+ASM_32 , #= 42 , Average= 143.257
+ASM_33 , #= 300 , Average= 20.3811
+ASM_34 , #= 284 , Average= 25.0043
+ASM_35 , #= 52 , Average= 27.8103
+ASM_36 , #= 25 , Average= 135.375
+ASM_37 , #= 25 , Average= 129.133
+ASM_38 , #= 84 , Average= 108.682
+ASM_39 , #= 311 , Average= 25.5865
+ASM_4 , #= 27 , Average= 157.181
+ASM_40 , #= 133 , Average= 14.7352
+ASM_41 , #= 172 , Average= 41.624
+ASM_42 , #= 26 , Average= 108.126
+ASM_43 , #= 27 , Average= 129.369
+ASM_44 ,
+ASM_45 , #= 177 , Average= 15.3813
+ASM_46 , #= 354 , Average= 56.3937
+ASM_47 , #= 203 , Average= 32.3042
+ASM_48 , #= 109 , Average= 46.8908
+ASM_49 , #= 86 , Average= 67.9075
+ASM_5 , #= 52 , Average= 23.7452
+ASM_50 ,
+ASM_51 , #= 127 , Average= 47.005
+ASM_52 ,
+ASM_53 , #= 145 , Average= 44.9959
+ASM_54 , #= 51 , Average= 76.3575
+ASM_55 , #= 469 , Average= 10.6616
+ASM_56 , #= 23 , Average= 119.485
+ASM_57 , #= 894 , Average= 8.40939
+ASM_6 , #= 186 , Average= 36.2926
+ASM_7 , #= 1 , Average= 5.14644
+ASM_8 , #= 8 , Average= 16.5631
+ASM_9 ,
+BHI_blank , #= 13 , Average= 6.66227
+bowtie2 ,
+contig_summary.txt ,
+HM611 , #= 1 , Average= 2898
+HM681 , #= 65 , Average= 100.266
+intermediate_contigs ,
+JKid , #= 951 , Average= 13.1442
+JMother , #= 1983 , Average= 9.3033
+Library_reagents_1 ,
+Library_reagents_2 ,
+Mock_1 , #= 817 , Average= 14.4146
+Mock_2 , #= 1040 , Average= 6.71558
+Mock_3 ,
+Mock_4 ,
+Mock_5 , #= 370 , Average= 29.0942
+Mock_6 , #= 583 , Average= 19.5865
+SP7524_full ,
+SP7524_noHL , #= 5 , Average= 42.9458
+SP7524_virome , #= 8 , Average= 17.3982
+SP8704_full , #= 1003 , Average= 10.6556
+SP8704_noHL , #= 3 , Average= 7.53935
+SP8704_virome ,
+SP8734_full , #= 242 , Average= 6.6203
+SP8734_noHL ,
+SP8734_virome ,
+SP8892_full , #= 1029 , Average= 10.445
+SP8892_noHL , #= 18 , Average= 19.8107
+SP9829_noHL , #= 4 , Average= 10.0423
+SP9829_virome ,
+SPIT_JP_1 , #= 2727 , Average= 10.2424
+SPIT_JP_2 , #= 2803 , Average= 10.7266
+SPIT_JP_3 , #= 198 , Average= 6.35831
+SPIT_JP_4 , #= 2498 , Average= 9.93492
+SPIT_JP_5 , #= 1661 , Average= 9.01062
+SPIT_JP_6 ,
+SPIT_JP_7 , #= 1065 , Average= 7.94997
+SPIT_JP_8 , #= 225 , Average= 6.83889
+SPIT_JP_9 , #= 142 , Average= 7.13539
+SPIT_JP_VIROME_1 , #= 16 , Average= 12.5123
+SPIT_JP_VIROME_2 , #= 117 , Average= 31.1612
+SPIT_JP_VIROME_3 , #= 1075 , Average= 16.7828
+SPIT_TG_1 , #= 2150 , Average= 12.314
+SPIT_TG_2 , #= 1879 , Average= 12.0361
+SPIT_TG_3 , #= 1703 , Average= 11.2059
+SPIT_TG_4 , #= 1 , Average= 6.47348
+SPIT_TG_5 , #= 1044 , Average= 8.60255
+SPIT_TG_6 , #= 2298 , Average= 12.1791
+SPIT_TG_7 , #= 1091 , Average= 8.17516
+SPIT_TG_8 , #= 482 , Average= 8.26289
+SPIT_TGnew_Virome_1 ,
+SPIT_TGnew_Virome_2 ,
+SPIT_TGnew_Virome_3 ,
+SPIT_TG_Virome_1 , #= 38 , Average= 22.5805
+SPIT_TG_Virome_2 , #= 190 , Average= 27.8475
+SPIT_TG_Virome_3 , #= 341 , Average= 10.1327
+tmp ,
+Undetermined ,
+W100_D1 ,
+W100_D5 , #= 87 , Average= 65.8109
+W101_D1 , #= 90 , Average= 63.0029
+W101_D5 , #= 91 , Average= 37.7579
+W102_D1 , #= 272 , Average= 31.0771
+W102_D5 , #= 94 , Average= 38.1305
+W103_D1 , #= 50 , Average= 279.287
+W103_D5 , #= 52 , Average= 101.712
+W104_D1 , #= 48 , Average= 139.618
+W104_D5 , #= 52 , Average= 105.45
+W105_D1 , #= 50 , Average= 300.542
+W105_D5 , #= 54 , Average= 52.6588
+W106_D1 , #= 88 , Average= 57.6567
+W106_D5 , #= 364 , Average= 11.8262
+W107_D1 ,
+W107_D5 , #= 85 , Average= 54.1073
+W108_D1 , #= 85 , Average= 87.1405
+W108_D5 , #= 51 , Average= 5.10709
+W10_D1 , #= 40 , Average= 46.6894
+W10_D5 , #= 44 , Average= 214.169
+W110_D5 , #= 88 , Average= 67.8779
+W114_D5 , #= 90 , Average= 46.3984
+W115_D1 , #= 76 , Average= 110.659
+W115_D5 , #= 45 , Average= 104.248
+W116_D1 , #= 84 , Average= 62.0922
+W116_D5 , #= 43 , Average= 92.6027
+W117_D1 , #= 83 , Average= 101.633
+W117_D5 , #= 45 , Average= 73.4377
+W118_D1 , #= 34 , Average= 121.024
+W118_D1_Virome ,
+W119_D1 , #= 32 , Average= 320.255
+W119_D1_Virome , #= 1394 , Average= 9.63788
+W11_D1 , #= 40 , Average= 148.381
+W11_D5 , #= 39 , Average= 167.931
+W127_D5 , #= 44 , Average= 61.1538
+W128_D5 , #= 44 , Average= 60.5957
+W129_D5 , #= 63 , Average= 63.087
+W12_D1 , #= 37 , Average= 190.564
+W12_D5 , #= 37 , Average= 206.157
+W133_D5 , #= 104 , Average= 91.1758
+W135_D5 , #= 104 , Average= 108.108
+W137_D5 , #= 102 , Average= 93.8177
+W138_D5 , #= 208 , Average= 25.3676
+W139_D1 , #= 46 , Average= 198.501
+W139_D1_Virome , #= 876 , Average= 14.9791
+W139_D5 , #= 41 , Average= 131.5
+W139_D5_Hoffman , #= 43 , Average= 142.535
+W139_D5_Virome , #= 12 , Average= 45.8324
+W13_D1 ,
+W13_D5 , #= 55 , Average= 75.1674
+W140_D1 , #= 44 , Average= 234.815
+W140_D1_Virome , #= 858 , Average= 15.6904
+W140_D5 , #= 41 , Average= 137.441
+W140_D5_Hoffman , #= 41 , Average= 216.719
+W140_D5_Virome , #= 10 , Average= 28.1025
+W141_D1 , #= 56 , Average= 261.553
+W141_D1_Hoffman , #= 43 , Average= 143.504
+W141_D1_Virome ,
+W141_D5 , #= 43 , Average= 141.024
+W141_D5_Hoffman , #= 40 , Average= 240.352
+W141_D5_Virome , #= 238 , Average= 12.2175
+W142_D1 , #= 53 , Average= 139.405
+W142_D1_Hoffman , #= 41 , Average= 47.5298
+W142_D1_Virome , #= 1279 , Average= 12.7131
+W142_D5 , #= 41 , Average= 93.7053
+W142_D5_Hoffman , #= 43 , Average= 294.815
+W142_D5_Virome ,
+W143_D1 , #= 121 , Average= 82.2457
+W143_D1_Hoffman , #= 41 , Average= 112.186
+W143_D1_Virome , #= 1097 , Average= 9.67418
+W143_D5 , #= 42 , Average= 185.213
+W143_D5_Hoffman , #= 42 , Average= 126.626
+W143_D5_Virome , #= 4 , Average= 14.9721
+W144_D1 , #= 41 , Average= 126.038
+W144_D1_Hoffman , #= 64 , Average= 34.3004
+W144_D1_Virome , #= 1308 , Average= 12.8967
+W144_D5 , #= 42 , Average= 203.031
+W144_D5_Hoffman , #= 42 , Average= 241.093
+W144_D5_Virome , #= 11 , Average= 46.3407
+W145_D1 , #= 52 , Average= 52.5873
+W145_D1_Hoffman , #= 46 , Average= 96.4556
+W145_D1_Virome , #= 945 , Average= 10.288
+W145_D5 , #= 48 , Average= 299.181
+W145_D5_Hoffman , #= 49 , Average= 79.6055
+W145_D5_Virome , #= 6 , Average= 34.5371
+W146_D1 , #= 47 , Average= 165.753
+W146_D1_Hoffman , #= 53 , Average= 84.2748
+W146_D1_Virome , #= 304 , Average= 8.11579
+W146_D5 , #= 50 , Average= 233.231
+W146_D5_hoffman , #= 48 , Average= 113.817
+W146_D5_Virome , #= 289 , Average= 10.0564
+W147_D1 ,
+W147_D1_Hoffman ,
+W147_D1_Virome ,
+W147_D5 , #= 60 , Average= 45.7112
+W147_D5_Hoffman , #= 50 , Average= 244.575
+W147_D5_Virome , #= 231 , Average= 27.0951
+W148_D1 , #= 49 , Average= 186.709
+W148_D1_Hoffman , #= 52 , Average= 71.7826
+W148_D1_Virome , #= 1301 , Average= 9.3528
+W148_D5 , #= 47 , Average= 147.491
+W148_D5_Hoffman , #= 47 , Average= 132.542
+W148_D5_Virome , #= 7 , Average= 28.2691
+W149_D1 , #= 46 , Average= 316.413
+W149_D1_Hoffman , #= 54 , Average= 100.827
+W149_D1_Virome ,
+W149_D5 , #= 48 , Average= 151.879
+W149_D5_Hoffman , #= 47 , Average= 298.869
+W149_D5_Virome , #= 385 , Average= 12.4213
+W14_D1 ,
+W14_D5 ,
+W150_D1 , #= 46 , Average= 292.506
+W150_D1_Hoffman , #= 49 , Average= 103.357
+W150_D1_Virome , #= 1440 , Average= 11.2283
+W150_D5 , #= 48 , Average= 179.5
+W150_D5_Hoffman , #= 1 , Average= 11.6237
+W150_D5_Virome , #= 434 , Average= 12.8794
+W15_D1 ,
+W15_D5 ,
+W16_D1 ,
+W16_D5 , #= 60 , Average= 64.1854
+W17_D1 , #= 54 , Average= 67.286
+W17_D5 ,
+W18_D1 ,
+W18_D5 , #= 54 , Average= 53.9352
+W19_D1 , #= 247 , Average= 18.2627
+W1_D1 , #= 76 , Average= 31.9993
+W20_D1 , #= 205 , Average= 21.1173
+W21_D1 , #= 120 , Average= 30.5386
+W22_D1 , #= 44 , Average= 177.734
+W23_D1 , #= 46 , Average= 179.474
+W24_D1 , #= 47 , Average= 275.591
+W25_D1 , #= 497 , Average= 18.0538
+W25_D5 , #= 97 , Average= 52.0929
+W26_D1 , #= 372 , Average= 25.6243
+W26_D5 , #= 84 , Average= 58.0296
+W27_D1 , #= 518 , Average= 25.0546
+W27_D5 , #= 167 , Average= 25.6352
+W28_D1 , #= 53 , Average= 292.562
+W28_D5 , #= 256 , Average= 36.5083
+W29_D1 , #= 54 , Average= 227.966
+W29_D5 , #= 167 , Average= 42.7848
+W2_D1 , #= 10 , Average= 7.17952
+W30_D1 , #= 48 , Average= 176.261
+W30_D5 , #= 574 , Average= 23.1823
+W31_D1 , #= 82 , Average= 117.459
+W31_D5 , #= 85 , Average= 74.902
+W32_D1 , #= 87 , Average= 111.518
+W32_D5 , #= 90 , Average= 77.2399
+W33_D1 ,
+W33_D5 , #= 86 , Average= 59.1452
+W34_D1 , #= 85 , Average= 80.7009
+W34_D5 , #= 86 , Average= 73.2215
+W35_D1 , #= 85 , Average= 121.723
+W35_D5 , #= 88 , Average= 80.2467
+W36_D1 , #= 89 , Average= 125.013
+W36_D5 , #= 90 , Average= 73.4323
+W37_D1 , #= 86 , Average= 162.007
+W37_D5 , #= 86 , Average= 70.5764
+W38_D1 , #= 86 , Average= 131.062
+W38_D5 , #= 84 , Average= 73.2393
+W39_D1 , #= 89 , Average= 133.873
+W39_D5 , #= 85 , Average= 74.6168
+W3_D1 , #= 471 , Average= 9.97537
+W40_D1 , #= 328 , Average= 35.8733
+W40_D5 , #= 113 , Average= 46.7245
+W41_D1 , #= 538 , Average= 30.1491
+W41_D5 , #= 91 , Average= 36.1621
+W42_D1 , #= 245 , Average= 7.13848
+W42_D5 , #= 224 , Average= 33.5435
+W43_D1 ,
+W44_D1 , #= 64 , Average= 75.3736
+W45_D1 , #= 42 , Average= 26.4628
+W46_D1 ,
+W47_D1 , #= 70 , Average= 142.14
+W48_D1 , #= 70 , Average= 138.166
+W49_D1 , #= 69 , Average= 60.4171
+W4_D1 , #= 1049 , Average= 7.03484
+W50_D1 , #= 67 , Average= 75.0286
+W51_D1 , #= 68 , Average= 152.026
+W52_D1 ,
+W52_D5 ,
+W53_D1 , #= 109 , Average= 99.2859
+W53_D5 , #= 120 , Average= 44.1879
+W54_D1 , #= 105 , Average= 94.2785
+W54_D5 , #= 105 , Average= 46.4462
+W55_D1 , #= 2 , Average= 18.8208
+W56_D1 , #= 734 , Average= 25.6605
+W57_D1 , #= 3 , Average= 128.581
+W58_D1 , #= 282 , Average= 15.1021
+W58_D5 , #= 38 , Average= 98.6016
+W59_D1 , #= 959 , Average= 13.0383
+W59_D5 , #= 43 , Average= 96.5302
+W5_D1 , #= 79 , Average= 22.4881
+W5_D1_cov.txt ,
+W60_D1 , #= 1109 , Average= 9.86119
+W60_D5 , #= 37 , Average= 106.56
+W61_D1 , #= 17 , Average= 10.9304
+W61_D5 , #= 99 , Average= 54.1216
+W62_D1 , #= 121 , Average= 51.3937
+W62_D5 ,
+W63_D1 ,
+W63_D5 , #= 103 , Average= 106.404
+W64_D1 , #= 208 , Average= 56.65
+W64_D5 , #= 81 , Average= 105.862
+W65_D1 , #= 452 , Average= 8.16007
+W65_D5 , #= 205 , Average= 41.5163
+W66_D1 , #= 402 , Average= 19.9872
+W66_D5 , #= 121 , Average= 94.8809
+W67_D1 , #= 98 , Average= 6.84797
+W67_D5 , #= 44 , Average= 134.747
+W68_D1 , #= 55 , Average= 120.301
+W68_D5 , #= 40 , Average= 57.9902
+W69_D1 , #= 362 , Average= 116.026
+W69_D5 , #= 42 , Average= 48.5458
+W6_D1 , #= 423 , Average= 10.4027
+W70_D1 , #= 62 , Average= 116.968
+W70_D5 , #= 48 , Average= 134.305
+W71_D1 , #= 1 , Average= 6.48576
+W71_D5 , #= 46 , Average= 191.08
+W72_D1 , #= 282 , Average= 13.2803
+W72_D5 , #= 47 , Average= 76.3358
+W73_D1 , #= 5 , Average= 18.4113
+W73_D5 , #= 49 , Average= 133.043
+W74_D1 , #= 63 , Average= 36.9395
+W74_D5 , #= 45 , Average= 143.93
+W75_D1 , #= 46 , Average= 203.664
+W75_D5 , #= 48 , Average= 173.054
+W7_D1 , #= 39 , Average= 140.037
+W7_D5 , #= 43 , Average= 202.913
+W82_D1 , #= 39 , Average= 239.115
+W82_D5 , #= 38 , Average= 426.809
+W83_D1 , #= 39 , Average= 128.2
+W83_D5 , #= 39 , Average= 192.48
+W84_D1 , #= 38 , Average= 249.42
+W84_D5 , #= 38 , Average= 273.622
+W85_D1 , #= 39 , Average= 71.7371
+W85_D5 , #= 40 , Average= 325.99
+W86_D1 , #= 40 , Average= 172.894
+W86_D5 , #= 88 , Average= 80.7116
+W87_D1 , #= 39 , Average= 204.233
+W87_D5 , #= 38 , Average= 176.772
+W88_D5 ,
+W89_D5 , #= 54 , Average= 76.4918
+W8_D1 , #= 41 , Average= 120.67
+W8_D5 , #= 39 , Average= 237.346
+W90_D5 ,
+W91_D5 , #= 38 , Average= 120.777
+W92_D5 ,
+W93_D5 ,
+W9_D1 , #= 38 , Average= 178.138
+W9_D5 , #= 40 , Average= 221.62
+Wound_prelim_Virome_1 , #= 46 , Average= 244.418
+Wound_prelim_Virome_2 , #= 393 , Average= 22.4532
+Wound_prelim_Virome_3 , #= 53 , Average= 91.0794
+ZYMO_microprep_reagents ,
+ZYMO_Standard , #= 3434 , Average= 10.933
+ZYMO_viral_reagents ,
