@@ -1,0 +1,411 @@
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<html>
+<head>
+<title>Mutation Comparison</title>
+<style type = "text/css">
+body {font-family: sans-serif; font-size: 11pt;}
+th {background-color: rgb(0,0,0); color: rgb(255,255,255);}
+table {background-color: rgb(1,0,0); color: rgb(0,0,0);}
+tr {background-color: rgb(255,255,255);}
+.mutation_in_codon {color:red; text-decoration : underline;}
+.snp_type_synonymous{color:green;}
+.snp_type_nonsynonymous{color:blue;}
+.snp_type_nonsense{color:red;}
+.mutation_header_row {background-color: rgb(0,130,0);}
+.read_alignment_header_row {background-color: rgb(255,0,0);}
+.missing_coverage_header_row {background-color: rgb(0,100,100);}
+.new_junction_header_row {background-color: rgb(0,0,155);}
+.copy_number_header_row {background-color: rgb(153,102,0);}
+.alternate_table_row_0 {background-color: rgb(255,255,255);}
+.alternate_table_row_1 {background-color: rgb(235,235,235);}
+.gray_table_row {background-color: rgb(230,230,245);}
+.polymorphism_table_row {background-color: rgb(160,255,160);}
+.highlight_table_row {background-color: rgb(192,255,255);}
+.reject_table_row {background-color: rgb(255,200,165);}
+.user_defined_table_row {background-color: rgb(255,255,0);}
+.information_table_row {background-color: rgb(200,255,255);}
+.junction_repeat {background-color: rgb(255,165,0)}
+.junction_gene {}
+.hidden { display: none; }
+.unhidden { display: block; }
+
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<script type="text/javascript">
+  function hideTog(divID) {
+    var item = document.getElementById(divID);
+    if (item) {
+      item.className=(item.className=='hidden')?'unhidden':'hidden';
+    }
+  }
+  function showTog(butID) {
+    var button = document.getElementById(butID);
+    if (button) {
+      button.value=(button.value=='Show')?'Hide':'Show';
+    }
+  }
+</script>
+
+</head>
+<body>
+<!--Output Html_Mutation_Table_String-->
+<table border="0" cellspacing="1" cellpadding="3">
+<tr><th colspan="7" align="left" class="mutation_header_row">Predicted mutations</th></tr><tr>
+<th>seq&nbsp;id</th>
+<th>position</th>
+<th>mutation</th>
+<th>freq</th>
+<th>annotation</th>
+<th>gene</th>
+<th width="100%">description</th>
+</tr>
+
+<!-- Item Lines -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_300</td><!-- Seq_Id -->
+<td align="right">10,621</td><!-- Position -->
+<td align="center">A&rarr;C</td><!-- Cell Mutation -->
+<td align="right">5.4%</td>
+<td align="center"><font class="snp_type_synonymous">V93V</font>&nbsp;(GT<font class="mutation_in_codon">A</font>&rarr;GT<font class="mutation_in_codon">C</font>)&nbsp;</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&rarr;</td>
+<td align="left">Spermidine/putrescine import ABC transporter ATP&#8209;binding protein PotA (TC 3.A.1.11.1)</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_309</td><!-- Seq_Id -->
+<td align="right">32,829</td><!-- Position -->
+<td align="center">(CCCAGATAAACCAAAGCCAAATCCGGATCCAAAACCAGA)<sub>1&rarr;3</sub></td><!-- Cell Mutation -->
+<td align="right">11.5%</td>
+<td align="center">coding&nbsp;(437/1182&nbsp;nt)</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&rarr;</td>
+<td align="left">Membrane anchored protein</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_309</td><!-- Seq_Id -->
+<td align="right">32,854</td><!-- Position -->
+<td align="center">G&rarr;A</td><!-- Cell Mutation -->
+<td align="right">16.6%</td>
+<td align="center"><font class="snp_type_synonymous">P154P</font>&nbsp;(CC<font class="mutation_in_codon">G</font>&rarr;CC<font class="mutation_in_codon">A</font>)&nbsp;</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&rarr;</td>
+<td align="left">Membrane anchored protein</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_309</td><!-- Seq_Id -->
+<td align="right">32,855</td><!-- Position -->
+<td align="center">A&rarr;G</td><!-- Cell Mutation -->
+<td align="right">19.6%</td>
+<td align="center"><font class="snp_type_nonsynonymous">N155D</font>&nbsp;(<font class="mutation_in_codon">A</font>AT&rarr;<font class="mutation_in_codon">G</font>AT)&nbsp;</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&rarr;</td>
+<td align="left">Membrane anchored protein</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_309</td><!-- Seq_Id -->
+<td align="right">32,871</td><!-- Position -->
+<td align="center">+156 bp</td><!-- Cell Mutation -->
+<td align="right">13.1%</td>
+<td align="center">coding&nbsp;(479/1182&nbsp;nt)</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&rarr;</td>
+<td align="left">Membrane anchored protein</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_314</td><!-- Seq_Id -->
+<td align="right">59,074</td><!-- Position -->
+<td align="center">T&rarr;C</td><!-- Cell Mutation -->
+<td align="right">5.2%</td>
+<td align="center"><font class="snp_type_synonymous">L132L</font>&nbsp;(<font class="mutation_in_codon">T</font>TG&rarr;<font class="mutation_in_codon">C</font>TG)&nbsp;</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&rarr;</td>
+<td align="left">Prephenate dehydratase (EC 4.2.1.51)</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_319</td><!-- Seq_Id -->
+<td align="right">34,782</td><!-- Position -->
+<td align="center">G&rarr;A</td><!-- Cell Mutation -->
+<td align="right">6.0%</td>
+<td align="center">intergenic&nbsp;(&#8209;168/+256)</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&larr;&nbsp;/&nbsp;&larr;&nbsp;<i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i></td>
+<td align="left">Thymidylate synthase (EC 2.1.1.45)/hypothetical protein</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_319</td><!-- Seq_Id -->
+<td align="right">55,006</td><!-- Position -->
+<td align="center">T&rarr;A</td><!-- Cell Mutation -->
+<td align="right">5.4%</td>
+<td align="center"><font class="snp_type_synonymous">T5252T</font>&nbsp;(AC<font class="mutation_in_codon">A</font>&rarr;AC<font class="mutation_in_codon">T</font>)&nbsp;</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&larr;</td>
+<td align="left">Putative Staphylococcal surface anchored protein</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_319</td><!-- Seq_Id -->
+<td align="right">88,008</td><!-- Position -->
+<td align="center">G&rarr;A</td><!-- Cell Mutation -->
+<td align="right">15.5%</td>
+<td align="center"><font class="snp_type_nonsynonymous">A132T</font>&nbsp;(<font class="mutation_in_codon">G</font>CA&rarr;<font class="mutation_in_codon">A</font>CA)&nbsp;</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&rarr;</td>
+<td align="left">Multimodular transpeptidase&#8209;transglycosylase (EC 2.4.1.129) (EC 3.4.&#8209;.&#8209;) / Penicillin&#8209;binding protein 1A/1B (PBP1)</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_322</td><!-- Seq_Id -->
+<td align="right">109,901</td><!-- Position -->
+<td align="center">G&rarr;A</td><!-- Cell Mutation -->
+<td align="right">5.7%</td>
+<td align="center"><font class="snp_type_synonymous">D228D</font>&nbsp;(GA<font class="mutation_in_codon">C</font>&rarr;GA<font class="mutation_in_codon">T</font>)&nbsp;</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&larr;</td>
+<td align="left">3&#8209;oxoacyl&#8209;[acyl&#8209;carrier&#8209;protein] synthase, KASII (EC 2.3.1.179)</td>
+</tr>
+<!-- End Table Row -->
+<tr>
+<th>seq&nbsp;id</th>
+<th>position</th>
+<th>mutation</th>
+<th>freq</th>
+<th>annotation</th>
+<th>gene</th>
+<th width="100%">description</th>
+</tr>
+
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_325</td><!-- Seq_Id -->
+<td align="right">25,461</td><!-- Position -->
+<td align="center">C&rarr;A</td><!-- Cell Mutation -->
+<td align="right">14.3%</td>
+<td align="center"><font class="snp_type_nonsynonymous">A455E</font>&nbsp;(G<font class="mutation_in_codon">C</font>A&rarr;G<font class="mutation_in_codon">A</font>A)&nbsp;</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&rarr;</td>
+<td align="left">DNA&#8209;directed RNA polymerase beta subunit (EC 2.7.7.6)</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_325</td><!-- Seq_Id -->
+<td align="right">28,687</td><!-- Position -->
+<td align="center">&Delta;9&nbsp;bp</td><!-- Cell Mutation -->
+<td align="right">28.2%</td>
+<td align="center">coding&nbsp;(902&#8209;910/3624&nbsp;nt)</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&rarr;</td>
+<td align="left">DNA&#8209;directed RNA polymerase beta' subunit (EC 2.7.7.6)</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_326</td><!-- Seq_Id -->
+<td align="right">16,378</td><!-- Position -->
+<td align="center">T&rarr;C</td><!-- Cell Mutation -->
+<td align="right">5.6%</td>
+<td align="center">intergenic&nbsp;(&#8209;161/+161)</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&larr;&nbsp;/&nbsp;&larr;&nbsp;<i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i></td>
+<td align="left">tRNA&#8209;dependent lipid II&#8209;Gly glycyltransferase (EC 2.3.2.17) @ tRNA&#8209;dependent lipid II&#8209;GlyGly glycyltransferase (EC 2.3.2.17) @ FemA, factor essential for methicillin resistance/Tryptophan synthase alpha chain (EC 4.2.1.20)</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_326</td><!-- Seq_Id -->
+<td align="right">159,655</td><!-- Position -->
+<td align="center">C&rarr;A</td><!-- Cell Mutation -->
+<td align="right">6.6%</td>
+<td align="center"><font class="snp_type_nonsynonymous">W346C</font>&nbsp;(TG<font class="mutation_in_codon">G</font>&rarr;TG<font class="mutation_in_codon">T</font>)&nbsp;</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&larr;</td>
+<td align="left">FmhC protein of FemAB family</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_326</td><!-- Seq_Id -->
+<td align="right">160,658</td><!-- Position -->
+<td align="center">G&rarr;T</td><!-- Cell Mutation -->
+<td align="right">5.6%</td>
+<td align="center"><font class="snp_type_nonsynonymous">T12N</font>&nbsp;(A<font class="mutation_in_codon">C</font>C&rarr;A<font class="mutation_in_codon">A</font>C)&nbsp;</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&larr;</td>
+<td align="left">FmhC protein of FemAB family</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_326</td><!-- Seq_Id -->
+<td align="right">227,947</td><!-- Position -->
+<td align="center">G&rarr;A</td><!-- Cell Mutation -->
+<td align="right">6.4%</td>
+<td align="center"><font class="snp_type_nonsynonymous">T87I</font>&nbsp;(A<font class="mutation_in_codon">C</font>A&rarr;A<font class="mutation_in_codon">T</font>A)&nbsp;</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&larr;</td>
+<td align="left">FIG00003370: Multicopper polyphenol oxidase</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_326</td><!-- Seq_Id -->
+<td align="right">247,666</td><!-- Position -->
+<td align="center">C&rarr;A</td><!-- Cell Mutation -->
+<td align="right">5.4%</td>
+<td align="center"><font class="snp_type_nonsynonymous">G306C</font>&nbsp;(<font class="mutation_in_codon">G</font>GT&rarr;<font class="mutation_in_codon">T</font>GT)&nbsp;</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&larr;</td>
+<td align="left">Carbamate kinase (EC 2.7.2.2)</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_332</td><!-- Seq_Id -->
+<td align="right">15,894</td><!-- Position -->
+<td align="center">C&rarr;T</td><!-- Cell Mutation -->
+<td align="right">5.2%</td>
+<td align="center"><font class="snp_type_nonsynonymous">C210Y</font>&nbsp;(T<font class="mutation_in_codon">G</font>C&rarr;T<font class="mutation_in_codon">A</font>C)&nbsp;</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&larr;</td>
+<td align="left">Uncharacterized siderophore biosynthesis protein near heme transporter HtsABC @ Siderophore synthetase superfamily, group B</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_332</td><!-- Seq_Id -->
+<td align="right">39,138</td><!-- Position -->
+<td align="center">A&rarr;G</td><!-- Cell Mutation -->
+<td align="right">5.0%</td>
+<td align="center"><font class="snp_type_nonsynonymous">K401E</font>&nbsp;(<font class="mutation_in_codon">A</font>AA&rarr;<font class="mutation_in_codon">G</font>AA)&nbsp;</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&rarr;</td>
+<td align="left">Hyaluronate lyase precursor (EC 4.2.2.1)</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_335</td><!-- Seq_Id -->
+<td align="right">49,129</td><!-- Position -->
+<td align="center">C&rarr;T</td><!-- Cell Mutation -->
+<td align="right">5.2%</td>
+<td align="center">intergenic&nbsp;(&#8209;645/+19)</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&larr;&nbsp;/&nbsp;&larr;&nbsp;<i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i></td>
+<td align="left">HPr kinase/phosphorylase/Excinuclease ABC subunit A</td>
+</tr>
+<!-- End Table Row -->
+<tr>
+<th>seq&nbsp;id</th>
+<th>position</th>
+<th>mutation</th>
+<th>freq</th>
+<th>annotation</th>
+<th>gene</th>
+<th width="100%">description</th>
+</tr>
+
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_335</td><!-- Seq_Id -->
+<td align="right">93,152</td><!-- Position -->
+<td align="center">C&rarr;T</td><!-- Cell Mutation -->
+<td align="right">5.8%</td>
+<td align="center"><font class="snp_type_synonymous">A153A</font>&nbsp;(GC<font class="mutation_in_codon">G</font>&rarr;GC<font class="mutation_in_codon">A</font>)&nbsp;</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&larr;</td>
+<td align="left">Glycine betaine ABC transport system, permease protein OpuAB / Glycine betaine ABC transport system, glycine betaine&#8209;binding protein OpuAC</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_336</td><!-- Seq_Id -->
+<td align="right">20,237</td><!-- Position -->
+<td align="center">G&rarr;A</td><!-- Cell Mutation -->
+<td align="right">5.7%</td>
+<td align="center"><font class="snp_type_nonsynonymous">V219I</font>&nbsp;(<font class="mutation_in_codon">G</font>TT&rarr;<font class="mutation_in_codon">A</font>TT)&nbsp;</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&rarr;</td>
+<td align="left">oxidoreductase of aldo/keto reductase family, subgroup 1</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_336</td><!-- Seq_Id -->
+<td align="right">153,604</td><!-- Position -->
+<td align="center">G&rarr;A</td><!-- Cell Mutation -->
+<td align="right">25.5%</td>
+<td align="center"><font class="snp_type_nonsynonymous">G362D</font>&nbsp;(G<font class="mutation_in_codon">G</font>T&rarr;G<font class="mutation_in_codon">A</font>T)&nbsp;</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&rarr;</td>
+<td align="left">ATP&#8209;dependent Clp protease ATP&#8209;binding subunit ClpX</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_336</td><!-- Seq_Id -->
+<td align="right">238,809</td><!-- Position -->
+<td align="center">G&rarr;A</td><!-- Cell Mutation -->
+<td align="right">5.3%</td>
+<td align="center"><font class="snp_type_nonsynonymous">A27V</font>&nbsp;(G<font class="mutation_in_codon">C</font>A&rarr;G<font class="mutation_in_codon">T</font>A)&nbsp;</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&larr;</td>
+<td align="left">SSU ribosomal protein S20p</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_336</td><!-- Seq_Id -->
+<td align="right">253,859</td><!-- Position -->
+<td align="center">A&rarr;G</td><!-- Cell Mutation -->
+<td align="right">5.5%</td>
+<td align="center">intergenic&nbsp;(+33/&#8209;271)</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&rarr;&nbsp;/&nbsp;&rarr;&nbsp;<i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i></td>
+<td align="left">hypothetical protein/Phosphate starvation&#8209;inducible protein PhoH, predicted ATPase</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_337</td><!-- Seq_Id -->
+<td align="right">124,675</td><!-- Position -->
+<td align="center">G&rarr;A</td><!-- Cell Mutation -->
+<td align="right">9.5%</td>
+<td align="center"><font class="snp_type_synonymous">G448G</font>&nbsp;(GG<font class="mutation_in_codon">G</font>&rarr;GG<font class="mutation_in_codon">A</font>)&nbsp;</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&rarr;</td>
+<td align="left">Virulence&#8209;associated cell&#8209;wall&#8209;anchored protein SasG (LPXTG motif), binding to squamous nasal epithelial cells</td>
+</tr>
+<!-- End Table Row -->
+
+<!-- Print The Table Row -->
+<tr class="polymorphism_table_row">
+<td align="center">k141_94</td><!-- Seq_Id -->
+<td align="right">104</td><!-- Position -->
+<td align="center">T&rarr;C</td><!-- Cell Mutation -->
+<td align="right">7.3%</td>
+<td align="center"><font class="snp_type_nonsynonymous">T32A</font>&nbsp;(<font class="mutation_in_codon">A</font>CA&rarr;<font class="mutation_in_codon">G</font>CA)&nbsp;</td>
+<td align="center"><i>rasttk_feature_annotation_tool=annotate_proteins_km er_v2</i>&nbsp;&larr;</td>
+<td align="left">Phage tail fiber</td>
+</tr>
+<!-- End Table Row -->
+</table></body></html>
